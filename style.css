@@ -1,0 +1,70 @@
+
+body 
+{
+	background-color: ivory;
+}
+  .copy_right_footer 
+{
+   position: fixed;
+   color: #ff0000;
+   bottom: 0;
+   width: 100%;
+   background-color: mistyrose;
+   line-height: 3;
+   text-align: center;
+   font-family: 'itim', cursive;
+   font-size: 23px;
+   height: 55px;
+   margin-top: 25px;
+
+}
+ol h5
+{
+	background: lightsalmon;
+    padding: 13px;
+    border-radius: 20px;
+}
+span
+{
+	color: white;
+	font-size: 16px;
+}	
+li img
+{
+	border-radius: 20px;
+}
+.bob
+{
+	background:indianred;
+	padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;
+	box-shadow: 5px 5px 18 red;
+}
+b
+{
+	color: darkred;
+}
+
+.bob3
+{
+	text-align: center;
+	color: red;
+}
+.result
+{
+	box-shadow: 5px 5px 18px ;
+	letter-spacing: 2px;
+	background: orange;
+	border-radius: 20px;
+	margin-top:30px;
+	padding: 20px;
+	border:2px solid rgb(0, 255, 0)
+}
+
+.style
+{
+  color: rgb(255, 255, 255); 
+  font-size: 28px;
+  margin-bottom: 18px;
+}
